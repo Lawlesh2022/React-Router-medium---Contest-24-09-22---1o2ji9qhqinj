@@ -1,5 +1,5 @@
 import React from 'react'
-import{routes, Route} from 'react-router-dom'
+import{Routes, Route} from 'react-router-dom'
 
 import { BackgroundColorChanger } from './Pages/BackgroundColorChanger'
 import { Calculator } from './Pages/Calculator'
